@@ -1,6 +1,7 @@
 # Heartbeat-Bot-Lite
 COVID-19自宅療養者向けソリューション(廉価版)(開発中)  
 心拍数が表示可能な[上位版](https://github.com/Uma919/Heartbeat-Bot.git)もございます．
+<img src="./doc/doc.jpg" width="640px">
 
 # 必要なモノ
 ## 制御基板や電子部品
